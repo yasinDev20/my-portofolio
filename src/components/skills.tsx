@@ -1,4 +1,3 @@
-import { Workflow } from "lucide-react";
 import { FaCube, FaFigma, FaLayerGroup } from "react-icons/fa";
 import { FaFlutter, FaGitAlt, FaGithub, FaLaravel } from "react-icons/fa6";
 import {
@@ -11,7 +10,6 @@ import {
     SiReact,
     SiJavascript,
     SiTailwindcss,
-    SiFlutter,
 } from "react-icons/si";
 
 const skills = [
